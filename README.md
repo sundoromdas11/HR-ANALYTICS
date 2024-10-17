@@ -15,7 +15,8 @@
 
 ### Approach :
 - Understanding Dataset including table relationships, primary and foreign keys, and any constraints present.
-- Analyzing the dataset using SQL queries
+- Analyzing the excel dataset  and Power BI.
+- link- https://app.powerbi.com/view?r=eyJrIjoiNDc2YzM2NDMtNGYyNy00ZjFmLWE5MGEtZjgwZTFkNjFhODdjIiwidCI6IjUzNTA4ZDUyLWQxYjAtNDliMC1iNGJhLTM1MzNjMTI0OWEwMSJ9
 
 
 
